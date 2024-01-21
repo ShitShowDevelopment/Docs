@@ -1,0 +1,55 @@
+name: Generate repo list
+
+on:
+  schedule:
+    # Runs every 30 minutes
+    - cron: '0/30 0/1 * * *'
+  workflow_dispatch:
+
+env:
+  ORG: TBR-Development
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+        id: gegerate_repo_list
+        with:
+          github-token: ${{ secrets.PERSON_TOKEN }}
+          org: ${{ env.ORG }}
+          exclude-repo-names: '.github,.github-workflow'
+          wrap-with-details: true
+      - name: Generate Repo List
+        env:
+          GH_TOKEN: ${{ secrets.PERSON_TOKEN }}
+        run: |
+          export TARGET_FILE=/tmp/Docs/projects.md
+          gh repo clone ${{ env.ORG }}/Docs /tmp/Docs
+          cd /tmp/Docs
+          if [ -f "$TARGET_FILE" ]; then
+            rm $TARGET_FILE
+          fi
+          touch $TARGET_FILE
+          echo "---" >> $TARGET_FILE
+          echo "title: Projects" >> $TARGET_FILE
+          echo "layout: page" >> $TARGET_FILE
+          echo "permalink: /projects" >> $TARGET_FILE
+          echo "navorder: 2" >> $TARGET_FILE
+          echo "---" >> $TARGET_FILE
+          echo "" >> $TARGET_FILE
+          echo "" >> $TARGET_FILE
+          echo "## Projects" >> $TARGET_FILE
+          echo "" >> $TARGET_FILE
+          echo "Public projects maintained by TBR Development members." >> $TARGET_FILE
+          echo "" >> $TARGET_FILE
+          echo "" >> $TARGET_FILE
+          echo "${{ steps.generate_repo_list.outputs.table }}" >> $TARGET_FILE
+          echo "" >> $TARGET_FILE
+          echo "" >> $TARGET_FILE
+          echo "" >> $TARGET_FILE
+          gh auth setup-git -h github.com
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add .
+          git commit -m "Generate Repo List from CI"
+          git push
