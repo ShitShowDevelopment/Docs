@@ -13,9 +13,7 @@ A short list of public projects maintained by TBR Development members.
 * **BackRoomCogs**: A collection of cogs for use with Red DiscordBot
 * **YT Music Player**: A YouTube Music menubar music Player for Windows, MacOS, and Linux
 
-To see all of our projects head over to our github at: [github.com/tbr-development][github]
+To see all of our projects check out our github.
 
-<div class="github-card" data-github="TBR-Development" data-width="400" data-height="" data-theme="default"></div>
+<div class="github-card" data-github="TBR-Development" data-width="400" data-height="" data-theme="medium"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
-
-[github]: https://github.com/tbr-development
