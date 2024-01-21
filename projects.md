@@ -8,10 +8,17 @@ nav_order: 2
 ## Projects
 A short list of public projects maintained by TBR Development members.
 
-* **Nexus Mods**: A collection of extensions and mods for Vortex Mod Manager
-* **Windows Deskthemepacks**: A collection of themes for Windows 8, 8.1, 10, and 11
-* **BackRoomCogs**: A collection of cogs for use with Red DiscordBot
-* **YT Music Player**: A YouTube Music menubar music Player for Windows, MacOS, and Linux
+<div class="github-card" data-github="TBR-Development/Nexus-Mods" data-width="400" data-height="" data-theme="medium"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+<br />
+<div class="github-card" data-github="TBR-Development/BackRoomCogs" data-width="400" data-height="" data-theme="medium"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+<br />
+<div class="github-card" data-github="TBR-Development/YT-Music-Player" data-width="400" data-height="" data-theme="medium"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+<br />
+<div class="github-card" data-github="TBR-Development/Windows-Deskthemepacks" data-width="400" data-height="" data-theme="medium"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 To see all of our projects check out our github.
 
