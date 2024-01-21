@@ -15,4 +15,7 @@ A short list of public projects maintained by TBR Development members.
 
 To see all of our projects head over to our github at: [github.com/tbr-development][github]
 
+<div class="github-card" data-github="TBR-Development" data-width="400" data-height="" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
 [github]: https://github.com/tbr-development
