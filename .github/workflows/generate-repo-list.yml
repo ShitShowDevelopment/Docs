@@ -13,7 +13,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-        id: gegerate_repo_list
+        id: generate_repo_list
         with:
           github-token: ${{ secrets.PERSON_TOKEN }}
           org: ${{ env.ORG }}
