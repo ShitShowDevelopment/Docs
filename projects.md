@@ -9,7 +9,7 @@ nav_order: 2
 A short list of public projects maintained by TBR Development members.
 
 <div class="github-card" data-github="TBR-Development/Nexus-Mods" data-width="400" data-height="" data-theme="default" target="blank"></div>
-<div class="github-card" data-github="TBR-Development/BackRoomCogs" data-width="400" data-height="" data-theme="default" target="blank>></div>
+<div class="github-card" data-github="TBR-Development/BackRoomCogs" data-width="400" data-height="" data-theme="default" target="blank"></div>
 <div class="github-card" data-github="TBR-Development/YT-Music-Player" data-width="400" data-height="" data-theme="default" target="blank"></div>
 <div class="github-card" data-github="TBR-Development/Windows-Deskthemepacks" data-width="400" data-height="" data-theme="default" target="blank"></div>
 
