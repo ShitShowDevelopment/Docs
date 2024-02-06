@@ -10,7 +10,7 @@ Classic Windows 7 theme ported to work with later versions of Windows
 
 ![Preview][ArchitecturePreview]
 
- **Download**:  | **Author**: [Joshua Lewis][PhantomNimbi]
+ **Download**: [Architecture][Architecture] | **Author**: [Joshua Lewis][PhantomNimbi]
 
 ## Characters 
 Classic Windows 7 theme ported to work with later versions of Windows
