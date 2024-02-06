@@ -24,6 +24,7 @@ header_pages                   :
   - index.md
   - discord-bots.md
   - deskthemepacks.md
+  - yt-music-player.md
   - links.md
   - 404.md
 plugins                        :
