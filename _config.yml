@@ -24,6 +24,7 @@ header_pages                   :
   - index.md
   - projects.md
   - discord-bots.md
+  - deskthemepacks.md
   - links.md
   - 404.md
 plugins                        :
