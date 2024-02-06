@@ -2,7 +2,7 @@
 title: Links
 layout: page
 permalink: /links
-nav_order: 5
+nav_order: 4
 ---
  
  * [GitHub][URL_1]

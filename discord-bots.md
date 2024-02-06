@@ -2,7 +2,7 @@
 title: Discord Bots
 layout: page
 permalink: /discord-bots
-nav_order: 3
+nav_order: 2
 ---
 
 ## Red DiscordBot

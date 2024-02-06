@@ -2,7 +2,7 @@
 title: Deskthemepacks
 layout: page
 permalink: /deskthemepacks
-nav_order: 4
+nav_order: 3
 ---
 
 Themes for Windows 10 and 11
