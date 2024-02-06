@@ -11,7 +11,7 @@ Type `!help` to see a list of available commands and how to use them.
 
 ![RedImage][RedImage]
 
-| [Invite][RedInvite] | [Docs][RedDocs] |
+ **Invite**: [Red][RedInvite] | **Documentation**: [docs.discord.red][RedDocs] | **Prefix**: `!`
 
 
 [RedImage]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnZBUt2Srd87biqWhJ_MgVHGYvX_Spc50f1w
