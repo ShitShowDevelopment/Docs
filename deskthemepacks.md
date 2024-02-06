@@ -68,7 +68,7 @@ A tribute to one of one of the greatest films by Studio Ghibli
 
 ![Preview][HowlsMovingCastlePreview]
 
- **Download**: [Howl's MovingCastle][HowlsMovingCastle] | **Author**: [Joshua Lewis][PhantomNimbi]
+ **Download**: [Howl's Moving Castle][HowlsMovingCastle] | **Author**: [Joshua Lewis][PhantomNimbi]
 
 
 ## Courage TCD
