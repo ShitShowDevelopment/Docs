@@ -7,10 +7,11 @@ nav_order: 3
 
 ## Red DiscordBot
 Our own self hosted instance of the popular discord bot Red.
+Type `!help` to see a list of available commands and how to use them.
 
 ![RedImage][RedImage]
 
- [Invite][RedInvite] - [Docs][RedDocs] - Prefix: `!`
+ [Invite][RedInvite] | [Docs][RedDocs] 
 
 
 [RedImage]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnZBUt2Srd87biqWhJ_MgVHGYvX_Spc50f1w
