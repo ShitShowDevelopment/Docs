@@ -10,8 +10,7 @@ Our own self hosted instance of the popular discord bot Red.
 
 ![RedImage][RedImage]
 
-- [Invite][RedInvite]
-- [Docs][RedDocs]
+ [Invite][RedInvite] - [Docs][RedDocs] - Prefix: `!`
 
 
 [RedImage]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnZBUt2Srd87biqWhJ_MgVHGYvX_Spc50f1w
