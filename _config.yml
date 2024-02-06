@@ -23,6 +23,7 @@ back_to_top_text               : "Back to top"
 header_pages                   :
   - index.md
   - projects.md
+  - discord-bots.md
   - links.md
   - 404.md
 plugins                        :
