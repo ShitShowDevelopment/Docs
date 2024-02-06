@@ -5,10 +5,9 @@ permalink: /yt-music-player
 nav_order: 4
 ---
 
-<p align="center">
-<img width=300" alt="Icon.png" src="https://raw.githubusercontent.com/TBR-Development/YT-Music-Player/main/Icon.png"><br />
-<img width="450" alt="2023-07-27" src="https://i.imgur.com/vMD8d3p.png">
-</p>
+![icon][ICON]
+
+![Preview][SCREENSHOT]
 
 Electron menubar [Electron](https://www.electronjs.org/) application _(inspired by [rosswaycaster/XM-Menu-Player][XMMenuPlayer])_ that wraps YouTube Music. Enjoy 🎶
 
@@ -37,3 +36,7 @@ MacOS users can use `CMD+Q` to quit the app.
 🧑‍⚖️ This is an unofficial application and not published or supported by Google, LLC. Intended for personal and educational purposes. I am liable for nothing.
 
 [XMMenuPlayer]: https://github.com/rosswaycaster/XM-Menu-Player
+
+[ICON]: https://raw.githubusercontent.com/TBR-Development/YT-Music-Player/main/Icon.png
+
+[SCREENSHOT]: https://i.imgur.com/vMD8d3p.png
