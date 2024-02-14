@@ -8,8 +8,6 @@ nav_order: 2
 ## Guardian
 Our own self hosted instance of the popular discord bot Red.
 
-Type `!help` to see a list of available commands and how to use them.
-
 
  **Guardian**: [Invite][GuardianInvite] | **Docs**: [docs.discord.red][RedDocs] 
 
