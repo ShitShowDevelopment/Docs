@@ -3,7 +3,6 @@ title: Discord Bots
 layout: page
 permalink: /discord-bots
 parent: projects
-nav_order: 2
 ---
 
 ## Guardian
