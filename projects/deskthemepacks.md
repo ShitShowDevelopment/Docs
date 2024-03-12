@@ -1,7 +1,7 @@
 ---
 title: Deskthemepacks
 layout: page
-permalink: /deskthemepacks
+permalink: /projects/deskthemepacks
 parent: Projects
 ---
 
