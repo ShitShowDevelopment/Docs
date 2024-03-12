@@ -21,6 +21,8 @@ Windows batch script to automate creating scheduled tasks for RAMMap
 set PATH=%PATH%;C:\RAMMap
 ```
 
+- Finally, run the `RAMMap-Task-Scheduler.bat` file and follow the prompts.
+
 [sysinternals]: https://download.sysinternals.com/files/RAMMap.zip
 
 [RAMMap-Task-Scheduler]: https://github.com/TBR-Development/RAMMap-Task-Scheduler/blob/3b8c05714605944536188b3fc68a2b647a366803/RAMMap-Task-Scheduler.bat
