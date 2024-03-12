@@ -23,10 +23,11 @@ back_to_top_text               : "Back to top"
 header_pages                   :
   - index.md
   - projects.md
+  - projects/apps.md
   - projects/nexus-mods.md
   - projects/discord-bots.md
   - projects/deskthemepacks.md
-  - projects/yt-music-player.md
+  - projects/apps/yt-music-player.md
   - projects/nexus-mods/extensions.md
   - links.md
   - 404.md
