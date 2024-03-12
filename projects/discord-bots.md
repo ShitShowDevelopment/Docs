@@ -1,7 +1,7 @@
 ---
 title: Discord Bots
 layout: page
-permalink: /discord-bots
+permalink: /projects/discord-bots
 parent: Projects
 ---
 
