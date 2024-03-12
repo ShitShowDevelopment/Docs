@@ -2,7 +2,7 @@
 title: YT Music Player
 layout: page
 permalink: /yt-music-player
-nav_order: 4
+parent: projects
 ---
 
 ![Preview][SCREENSHOT]
