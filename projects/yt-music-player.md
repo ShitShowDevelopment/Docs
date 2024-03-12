@@ -1,7 +1,7 @@
 ---
 title: YT Music Player
 layout: page
-permalink: /yt-music-player
+permalink: /projects/yt-music-player
 parent: Projects
 ---
 
