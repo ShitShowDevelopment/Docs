@@ -27,6 +27,7 @@ header_pages                   :
   - projects/discord-bots.md
   - projects/deskthemepacks.md
   - projects/yt-music-player.md
+  - projects/nexus-mods/extensions.md
   - links.md
   - 404.md
 plugins                        :
