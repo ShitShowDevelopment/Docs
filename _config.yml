@@ -23,9 +23,10 @@ back_to_top_text               : "Back to top"
 header_pages                   :
   - index.md
   - projects.md
-  - discord-bots.md
-  - deskthemepacks.md
-  - yt-music-player.md
+  - projects/nexus-mods.md
+  - projects/discord-bots.md
+  - projects/deskthemepacks.md
+  - projects/yt-music-player.md
   - links.md
   - 404.md
 plugins                        :
