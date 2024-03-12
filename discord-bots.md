@@ -2,7 +2,7 @@
 title: Discord Bots
 layout: page
 permalink: /discord-bots
-parent: projects
+parent: Projects
 ---
 
 ## Guardian
