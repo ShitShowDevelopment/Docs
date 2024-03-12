@@ -2,6 +2,7 @@
 title: Deskthemepacks
 layout: page
 permalink: /projects/deskthemepacks
+had_children: true
 parent: Projects
 ---
 
