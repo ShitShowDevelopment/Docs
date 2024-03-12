@@ -9,7 +9,7 @@ grand_parent: Projects
 <hr />
 Add support for **Action Taimanin** to Nexus Mods.
 
-| **Mod Page**: [Action Taimanin Support][Action_Taimanin_Support] | **Author**: [PhantomNimbi][PhantomNimbi] |
+| **Mod Page**: [Action Taimanin Support][mod_546] | **Author**: [Joshua Lewis][PhantomNimbi] |
 
-[Action_Taimanin_Support]: https://www.nexusmods.com/site/mods/546
+[mod_546]: https://www.nexusmods.com/site/mods/546
 [PhantomNimbi]: https://github.com/PhantomNimbi
