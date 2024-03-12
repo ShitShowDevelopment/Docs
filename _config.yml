@@ -9,6 +9,15 @@ permalink                      : pretty
 remote_theme                   : just-the-docs/just-the-docs
 color_scheme                   : "dark"
 search_enabled                 : true
+search                         :
+  heading_level                : 2
+  previews                     : 3
+  preview_words_before         : 5
+  preview_words_after          : 10
+  tokenizer_separator          : /[\s/]+/
+  rel_url                      : true
+  button                       : false
+  focus_shortcut_key           : 'k'
 enable_copy_code_buttonn       : true
 last_edit_timestamp            : true
 last_edit_time_format          : "%b %e %Y at %I:%M %p" 
@@ -17,7 +26,7 @@ gh_edit_link_text              : "Edit this page on GitHub."
 gh_edit_repository             : "//github.com/tbr-development/docs" 
 gh_edit_branch                 : "main" 
 gh_edit_source                 : docs
-gh_edit_view_mode              : "tree"
+gh_edit_view_mode              : "edit"
 back_to_top                    : true
 back_to_top_text               : "Back to top"  
 header_pages                   :
