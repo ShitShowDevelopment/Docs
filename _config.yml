@@ -1,9 +1,9 @@
-title                          : TBR Development
+title                          : Shit Show Development
 description                    : > 
    Open-Source Development and Customization
 repository                     : tbr-development/docs
 baseUrl                        : "/Docs"
-url                            : "//tbr-development.github.io"
+url                            : "//shitshowdevelopment.github.io"
 show_excerpts                  : false
 permalink                      : pretty
 remote_theme                   : just-the-docs/just-the-docs
