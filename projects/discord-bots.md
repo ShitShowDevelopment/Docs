@@ -5,3 +5,5 @@ permalink: /projects/discord-bots
 has_children: true
 parent: Projects
 ---
+
+Discord bots built and/or hosted by our community.
