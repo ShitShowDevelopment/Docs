@@ -1,6 +1,7 @@
 title                          : Shit Show Development
 description                    : > 
    Open-Source Development and Customization
+favicon                        : /assets/favicon.ico
 repository                     : tbr-development/docs
 baseUrl                        : "/Docs"
 url                            : "//shitshowdevelopment.github.io"
