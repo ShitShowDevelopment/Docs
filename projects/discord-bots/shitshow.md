@@ -15,5 +15,5 @@ Our own self hosted instance of the popular Red-DiscordBot.
 
 [Image]: https://cdn.discordapp.com/avatars/1181304647508574248/a82ecba5d54832e30ddaa2e999d0afef.png?size=1024
 [Invite]: https://discord.com/oauth2/authorize?client_id=1181304647508574248&scope=bot+applications.commands&permissions=8
-[Discord]: https://dsc.gg/the-back-room
+[Discord]: https://dsc.gg/the-shit-show
 
