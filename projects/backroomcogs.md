@@ -1,5 +1,5 @@
 ---
-title: Links
+title: BackRoomCogs
 layout: page
 permalink: /projects/backroomcogs
 parent: Projects
