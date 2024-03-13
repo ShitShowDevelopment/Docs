@@ -1,5 +1,5 @@
 ---
-title: BackRoomCogs
+title: Shit Show Cogs
 layout: page
 permalink: /projects/backroomcogs
 parent: Projects
