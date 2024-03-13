@@ -32,6 +32,8 @@ back_to_top_text               : "Back to top"
 header_pages                   :
   - index.md
   - projects.md
+  - links.md
+  - 404.md
   - projects/apps.md
   - projects/scripts.md
   - projects/nexus-mods.md
@@ -47,8 +49,6 @@ header_pages                   :
   - projects/nexus-mods/extensions.md
   - projects/backroomcogs/cogs.md
   - projects/backroomcogs/instructions.md
-  - links.md
-  - 404.md
 plugins                        :
   - jekyll-seo-tag
   - jekyll-github-metadata
