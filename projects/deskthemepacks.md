@@ -6,4 +6,4 @@ has_children: true
 parent: Projects
 ---
 
-Themes for Windows 10 and 11
+Themes for Windows 8, 8.1, 10 and 11
