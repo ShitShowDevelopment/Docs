@@ -37,6 +37,7 @@ header_pages                   :
   - projects/nexus-mods.md
   - projects/discord-bots.md
   - projects/deskthemepacks.md
+  - projects/backroomcogs.md
   - projects/deskthemepacks/classic-windows-ports.md
   - projects/deskthemepacks/studii-ghibli-themes.md
   - projects/deskthemepacks/classic-cartoon-themes.md
@@ -44,6 +45,8 @@ header_pages                   :
   - projects/scripts/rammap-task-scheduler.md
   - projects/apps/yt-music-player.md
   - projects/nexus-mods/extensions.md
+  - projects/backroomcogs/cogs.md
+  - projects/backroomcogs/instructions.md
   - links.md
   - 404.md
 plugins                        :
