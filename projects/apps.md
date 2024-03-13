@@ -6,4 +6,4 @@ has_children: true
 parent: Projects
 ---
 
-A collection of apps built and maintained by TBR Development 
+Apps created and maintained by our community.
