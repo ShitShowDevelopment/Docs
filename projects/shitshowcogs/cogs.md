@@ -1,7 +1,7 @@
 ---
 title: Cogs
 layout: page
-parent: BackRoomCogs
+parent: ShitShowCogs
 grand_parent: Projects
 ---
 
