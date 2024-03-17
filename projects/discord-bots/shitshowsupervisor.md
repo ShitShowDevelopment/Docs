@@ -13,7 +13,8 @@ Our own self hosted instance of the popular Red-DiscordBot.
  **Invite**: [Shit Show Supervisor][Invite] | **Host Discord**: [The Shit Show][Discord] 
 
 
-[Image]: https://cdn.discordapp.com/avatars/1181304647508574248/a82ecba5d54832e30ddaa2e999d0afef.png?size=1024
+[Image]: https://github.com/ShitShowDevelopment/Docs/assets/17615050/2bdc97d8-9ebe-4911-94d3-a2eeb876e373
+
 [Invite]: https://discord.com/oauth2/authorize?client_id=1181304647508574248&scope=bot+applications.commands&permissions=8
 [Discord]: https://dsc.gg/the-shit-show
 
