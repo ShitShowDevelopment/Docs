@@ -1,16 +1,16 @@
 ---
-title: Shit Show
+title: Shit Show Supervisor
 layout: page
 parent: Discord Bots
 grand_parent: Projects
 ---
 
-**Shit Show**<br />
+**Shit Show Supervisor**<br />
 Our own self hosted instance of the popular Red-DiscordBot.
 
 ![][Image]
 
- **Invite**: [Shit Show][Invite] | **Host Discord**: [The Shit Show][Discord] 
+ **Invite**: [Shit Show Supervisor][Invite] | **Host Discord**: [The Shit Show][Discord] 
 
 
 [Image]: https://cdn.discordapp.com/avatars/1181304647508574248/a82ecba5d54832e30ddaa2e999d0afef.png?size=1024
