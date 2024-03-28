@@ -3,6 +3,7 @@ title: Shit Show Supervisor
 layout: page
 parent: Discord Bots
 grand_parent: Projects
+nav_order: 1
 ---
 
 **Shit Show Supervisor**<br />
