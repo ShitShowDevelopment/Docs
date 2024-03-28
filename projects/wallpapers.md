@@ -1,7 +1,7 @@
 ---
 title: Wallpapers
 layout: page
-permalink: /projects/apps
+permalink: /projects/wallpapers
 has_children: true
 parent: Projects
 ---
