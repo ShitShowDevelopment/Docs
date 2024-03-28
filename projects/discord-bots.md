@@ -4,6 +4,7 @@ layout: page
 permalink: /projects/discord-bots
 has_children: true
 parent: Projects
+nav_order: 5
 ---
 
 ![][image]
