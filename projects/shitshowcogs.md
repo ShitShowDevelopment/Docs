@@ -4,6 +4,7 @@ layout: page
 permalink: /projects/backroomcogs
 parent: Projects
 has_children: true
+nav_order: 6
 ---
 
 ![][image]
