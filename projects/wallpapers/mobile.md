@@ -3,7 +3,8 @@ title: Mobile Wallpapers
 layout: page
 permalink: /projects/wallpapers/mobile
 nav_order: 2
-parent: Wallpapers 
+parent: Wallpapers
+grand_parent: Projects
 ---
 
 
