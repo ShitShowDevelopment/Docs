@@ -4,6 +4,7 @@ layout: page
 permalink: /projects/deskthemepacks/studii-ghibli-themes
 parent: Deskthemepacks
 grand_parent: Projects
+nav_order: 3
 ---
 
 ## Studio Ghibli
