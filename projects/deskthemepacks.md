@@ -4,6 +4,7 @@ layout: page
 permalink: /projects/deskthemepacks
 has_children: true
 parent: Projects
+nav_order: 4
 ---
 
 ![][image]
