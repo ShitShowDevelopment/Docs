@@ -3,6 +3,7 @@ title: Shit Show Coordinator
 layout: page
 parent: Discord Bots
 grand_parent: Projects
+nav_order: 2
 ---
 
 **Shit Show Coordinator**<br />
