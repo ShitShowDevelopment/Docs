@@ -34,6 +34,7 @@ header_pages                   :
   - projects/discord-bots.md
   - projects/deskthemepacks.md
   - projects/shitshowcogs.md
+  - projects/wallpapers.md
   - projects/deskthemepacks/classic-windows-ports.md
   - projects/deskthemepacks/studii-ghibli-themes.md
   - projects/deskthemepacks/classic-cartoon-themes.md
@@ -44,6 +45,7 @@ header_pages                   :
   - projects/nexus-mods/extensions.md
   - projects/shitshowcogs/cogs.md
   - projects/shitshowcogs/instructions.md
+  - https://github.com/ShitShowDevelopment/Wallpapers/blob/main/Mobile%2Fmobile.md
 plugins                        :
   - jekyll-seo-tag
   - jekyll-github-metadata
