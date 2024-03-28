@@ -4,6 +4,7 @@ title: Nexus Mods
 permalink: /projects/nexus-mods
 parent: Projects
 has_children: true
+nav_order: 7
 ---
 ![][image]
 
