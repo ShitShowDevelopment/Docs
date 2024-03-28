@@ -4,6 +4,7 @@ layout: page
 permalink: /projects/deskthemepacks/classic-windows-ports
 parent: Deskthemepacks
 grand_parent: Projects
+nav_order: 2
 ---
 
 ## Architecture
