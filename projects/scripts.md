@@ -3,6 +3,7 @@ title: Scripts
 layout: page
 has_children: true
 parent: Projects
+nav_order: 2
 ---
 
 ![][image]
