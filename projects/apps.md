@@ -4,6 +4,7 @@ layout: page
 permalink: /projects/apps
 has_children: true
 parent: Projects
+nav_order: 1
 ---
 ![][image]
 
