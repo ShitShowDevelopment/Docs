@@ -3,6 +3,7 @@ title: Cogs
 layout: page
 parent: Shit Show Cogs
 grand_parent: Projects
+nav_order: 2
 ---
 
 | Name | Description |
